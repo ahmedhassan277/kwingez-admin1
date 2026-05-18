@@ -1,1 +1,1 @@
-# kwingez-admin1
+index.html
